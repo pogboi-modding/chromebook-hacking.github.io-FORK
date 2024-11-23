@@ -97,10 +97,14 @@ const config = {
                 label: 'Get Started',
                 to: '/docs/get-started',
               },
+              {
+                label: 'FAQ',
+                to: '/faq',
+              },
             ],
           },
         ],
-        // copyright: `Copyright © ${new Date().getFullYear()} Chromebook Hacks, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Chromebook Hacking, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
