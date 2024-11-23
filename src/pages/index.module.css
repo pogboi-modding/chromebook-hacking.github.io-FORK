@@ -1,0 +1,18 @@
+.custom-details > summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.custom-details > summary::marker {
+  display: none;
+}
+
+.custom-details[open] > summary::after {
+  content: "▲";
+  float: right;
+}
+
+.custom-details > summary::after {
+  content: "▼";
+  float: right;
+}
