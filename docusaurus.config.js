@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://chromebook-hacks.github.io',
+  url: 'https://chromebook-hacking.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/', // temporary
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'chromebook-hacks', // Usually your GitHub org/user name.
-  projectName: 'chromebook-hacks.github.io', // Usually your repo name.
+  organizationName: 'chromebook-hacking', // Usually your GitHub org/user name.
+  projectName: 'chromebook-hacking.github.io', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -81,7 +81,7 @@ const config = {
           },
           {to: '/faq', label: 'FAQ', position: 'left'},
           {
-            href: 'https://github.com/chromebook-hacks/chromebook-hacks.github.io',
+            href: 'https://github.com/chromebook-hacking/chromebook-hacking.github.io',
             label: 'GitHub',
             position: 'right',
           },
