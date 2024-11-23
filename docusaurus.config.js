@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Chromebook Exploit Guide',
-  tagline: 'An updated exploit guide and wiki for a wide variety of chromebook exploits and tools.',
+  tagline: 'An updated exploit guide and wiki for a wide variety of Chromebook exploits and tools.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
