@@ -26,6 +26,7 @@
       label: 'Exploits',
       items: [
         'exploits/badrecovery',
+        'exploits/br1ck',
         'exploits/sh1mmer',
         'exploits/e-halcyon',
         'exploits/v101',
