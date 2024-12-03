@@ -50,4 +50,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [ ] Any exploits that haven't been added yet
 - [ ] Page edits
 - [ ] Grammar and spelling issues
-- [ ] More tools (see [ext-remover](https://ext-remover.net)
+- [ ] More tools (see [ext-remover](https://ext-remover.net) and the [repo](https://github.com/3kh0/ext-remover)
