@@ -45,19 +45,9 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
   <img src="https://contrib.rocks/image?repo=chromebook-hacking/chromebook-hacking.github.io" />
 </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                               
+# TODO
+- [ ] Chooser tool
+- [ ] Any exploits that haven't been added yet
+- [ ] Page edits
+- [ ] Grammar and spelling issues
+- [ ] More tools (see [ext-remover](https://ext-remover.net)
