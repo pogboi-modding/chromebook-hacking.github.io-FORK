@@ -46,7 +46,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 </a>
 
 # TODO
-- [ ] Chooser tool
+- [x] Chooser tool (sorta)
 - [ ] Any exploits that haven't been added yet
 - [ ] Page edits
 - [ ] Grammar and spelling issues
