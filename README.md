@@ -30,19 +30,13 @@ This command generates static content into the `build` directory and can be serv
  
 ### Deployment
 
-Using SSH:
- 
-```
-$ USE_SSH=true yarn deploy
-```
- 
-Not using SSH:
- 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
- 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+GitHub pages:
+
+1. Fork this repository
+2. Go to Settings -> Pages
+3. For the `Source`, pick GitHub Actions
+4. Let it run.
+5. Go to the website.
 
 ### Contributors
 <a href="https://github.com/chromebook-hacking/chromebook-hacking.github.io/graphs/contributors">
