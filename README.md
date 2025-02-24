@@ -1,6 +1,10 @@
 # Chromebook Hacks
 
 An updated exploit guide and wiki for a wide variety of chromebook exploits and tools. This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+
+## NOTICE
+
+If GoGuardian blocks this on your school computer, fork this repo and follow the guide below to access it while unblocked. (Brain and GitHub knowledge needed)
  
 ### Installation
  
